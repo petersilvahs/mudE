@@ -1,14 +1,14 @@
-import { Button, HeaderButton } from "../components/styles/Button/button";
+import { Button } from "@chakra-ui/react"
 
-export function Card(){
-   return(
+export function Card() {
+   return (
       <>
-      <Button>
-         Sou um botão
-      </Button>
-      <HeaderButton>
-         Sou um outro botão
-      </HeaderButton>
+         <Button>
+            Sou um botão
+         </Button>
+         <Button>
+            Sou um outro botão
+         </Button>
       </>
    )
 }
