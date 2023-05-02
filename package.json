@@ -8,10 +8,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.6.0",
+    "@emotion/react": "^11.10.8",
+    "@emotion/styled": "^11.10.8",
+    "framer-motion": "^10.12.5",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-is": "^18.2.0",
     "react-router-dom": "^6.3.0",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.10",
+    "types": "^0.1.1"
   },
   "devDependencies": {
     "@testing-library/react": "^13.2.0",
