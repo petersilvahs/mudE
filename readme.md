@@ -1,4 +1,4 @@
-![ilustra](https://user-images.githubusercontent.com/75394512/229802871-7818244f-6317-42b2-830f-e01037d8d899.svg)
+![ilustra](https://user-images.githubusercontent.com/75394512/235559460-286acea7-c0aa-4d3b-854c-303698578780.png)
 
 MudE
 
