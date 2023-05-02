@@ -1,3 +1,3 @@
-export function Catalogo(){
+export function Home(){
    return <h1>Catalogo</h1>
 }

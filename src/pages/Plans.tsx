@@ -1,6 +1,6 @@
 import { Button } from "@chakra-ui/react"
 
-export function Card() {
+export function Plans() {
    return (
       <>
          <Button>

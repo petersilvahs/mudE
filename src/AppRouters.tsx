@@ -1,15 +1,16 @@
-import{
-   BrowserRouter as Router, Route, Routes} from "react-router-dom"
-import { Card } from "./pages/Card"
-import { Catalogo } from "./pages/Catalogo"
+import {
+   BrowserRouter as Router, Route, Routes
+} from "react-router-dom"
+import { Plans } from "./pages/Plans"
+import { Home } from "./pages/Home"
 
-export function AppRouters(){
-   return(
+export function AppRouters() {
+   return (
       <Router>
          <Routes>
-         <Route path="/card" element={<Card/>}/>
-         <Route path="/catalogo" element={<Catalogo/>}/>
-      </Routes>
+            <Route path="/card" element={<Plans />} />
+            <Route path="/catalogo" element={<Home />} />
+         </Routes>
       </Router>
    )
 }
