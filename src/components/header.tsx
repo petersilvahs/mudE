@@ -8,11 +8,11 @@ export function Header(){
          <Flex height="10rem" width="10rem" marginTop="-3rem">
          <MudeLogo />
          </Flex>
-         <Text>INICIO</Text>
-         <Text>SERVIÇOS</Text>
-         <Text>PLANOS</Text>
-         <Text>CIDADES</Text>
-         <Button colorScheme="blue">LOGIN</Button>
+         <Text color="#110229">INICIO</Text>
+         <Text color="#110229">SERVIÇOS</Text>
+         <Text color="#110229">PLANOS</Text>
+         <Text color="#110229">CIDADES</Text>
+         <Button color="#1d267a">LOGIN</Button>
       </Flex>
    )
 }
