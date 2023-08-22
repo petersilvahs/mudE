@@ -1,3 +1,12 @@
+'use client'
+import { Footer } from "../components/footer";
+import { Header } from "../components/header";
+
 export function Home(){
-   return <h1>Catalogo</h1>
+   return(
+      <>
+      <Header />
+      <Footer />
+      </>
+   )
 }
