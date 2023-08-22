@@ -1,3 +1,4 @@
+'use client'
 import { AppRouters } from './AppRouters'
 
 function App() {
